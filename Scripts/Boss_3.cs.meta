@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 5800ca306467d457c81e74eef0a04b9d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - HP_bar: {instanceID: 0}
+  - poisonPrefab: {fileID: 3403727634510410286, guid: 92a23e3960d3a4a569ead6320a603601, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
