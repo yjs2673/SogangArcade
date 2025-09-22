@@ -27,4 +27,4 @@
 시연 영상 : https://youtu.be/bucLMenwwkA
 <br />
 <br />
-제작 과정 : https://www.notion.so/1f4bb61a510380759171f09a119ed04c?source=copy_link
+제작 과정 : [https://www.notion.so/1f4bb61a510380759171f09a119ed04c?source=copy_link](https://heavy-termite-840.notion.site/1f4bb61a510380759171f09a119ed04c)
